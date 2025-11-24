@@ -303,8 +303,8 @@ All datasets used are publicly available for educational purposes and comply wit
 ## 👥 Authors
 
 **Project Team Members:**
-- **Francis Aboud**
 - **Bshara Habib**
+- **Francis Aboud**
 - **Maria Nakhle**
 
 **Course:** Deep Learning Systems (31245) – Braude College of Engineering  
